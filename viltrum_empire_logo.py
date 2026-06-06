@@ -4,7 +4,7 @@ import turtle
 from turtle import *
 
 t = turtle.Turtle()
-t.speed(100)
+t.speed(10)
 turtle.bgcolor('grey')
 t.pencolor('white')
 
